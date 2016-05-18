@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_array">
+        <item>new delhi</item>
+        <item>new ashok nagar</item>
+        <item>ajad pur</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dialog_text">20dp</dimen>
+    <dimen name="dialog_text_fare">17dp</dimen>
+    <dimen name="list_text">15dp</dimen>
+    <dimen name="margin_text1">10dp</dimen>
+    <dimen name="text_row_margin">45dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TAXI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_ems">10</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

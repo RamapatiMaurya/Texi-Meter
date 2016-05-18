@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Rama\AndroidStudioProjects\TaxiMeter\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_08e418b7b06541aea9f32a8c34b33a7d89219374.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rama\AndroidStudioProjects\TaxiMeter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Rama\AndroidStudioProjects\TaxiMeter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_6924cc4429a92c782dc1528c1944b58cd068e834.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rama\AndroidStudioProjects\TaxiMeter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Rama\AndroidStudioProjects\TaxiMeter\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_08b53fb6cf1fd9c9d1920d4a139ca386a2102950.jar" />
+    </item>
+
+</items>

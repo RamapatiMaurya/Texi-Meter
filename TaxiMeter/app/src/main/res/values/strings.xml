@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TAXI</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="list_array">
+        <item>new delhi</item>
+        <item>new ashok nagar</item>
+        <item>ajad pur</item>
+    </string-array>
+    <string name="text_ems">10</string>
+
+</resources>

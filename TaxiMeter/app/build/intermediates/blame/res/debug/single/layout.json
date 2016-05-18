@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\report_activity.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\report_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\extracharges_activity.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\extracharges_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_job_info.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\dialog_job_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_total_fare.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\activity_total_fare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_job_row.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\list_job_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_activity.xml",
+        "source": "C:\\Users\\Rama\\AndroidStudioProjects\\TaxiMeter\\app\\src\\main\\res\\layout\\login_activity.xml"
+    }
+]
